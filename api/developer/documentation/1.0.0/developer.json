@@ -577,7 +577,7 @@
                 "cover": {
                   "type": "string"
                 },
-                "galerry": {
+                "gallery": {
                   "type": "array",
                   "items": {
                     "type": "string"

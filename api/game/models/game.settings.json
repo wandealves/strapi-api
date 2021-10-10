@@ -61,7 +61,7 @@
       "required": false,
       "pluginOptions": {}
     },
-    "galerry": {
+    "gallery": {
       "collection": "file",
       "via": "related",
       "allowedTypes": [
